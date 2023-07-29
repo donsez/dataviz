@@ -72,6 +72,7 @@ List the `demo` repositories in [streamlit org](https://github.com/orgs/streamli
 ### Components
 * https://streamlit.io/components
 * https://streamlit.io/components?category=video
+* https://github.com/mkhorasani/Streamlit-Authenticator
 
 ### Database
 
@@ -99,4 +100,4 @@ https://ddobrinskiy-jupyter.streamlit.app/
 Dynamic Time Warping Synchronization https://github.com/mkhorasani/dynamic_time_warping_synchronzation
 
 ## Books
-* https://github.com/mkhorasani/Streamlit-Authenticator
+* https://github.com/Apress/Web-Application-Development-with-Streamlit
