@@ -52,6 +52,14 @@ https://github.com/streamlit/streamlit/tree/develop/examples
 streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/streamlit_app.py
 ```
 
+### Realtime Dashboard
+
+https://blog.streamlit.io/how-to-build-a-real-time-live-dashboard-with-streamlit/
+
+```bash
+streamlit run rt-dashboard.py
+```
+
 ## More demos
 
 List the `demo` repositories in [streamlit org](https://github.com/orgs/streamlit/repositories?q=demo&type=all&language=&sort=).
@@ -87,3 +95,9 @@ https://github.com/ddobrinskiy/streamlit-jupyter
 https://github.com/ddobrinskiy/streamlit-jupyter/blob/master/examples/99_example.ipynb
 
 https://ddobrinskiy-jupyter.streamlit.app/
+
+### Misc
+Dynamic Time Warping Synchronization https://github.com/mkhorasani/dynamic_time_warping_synchronzation
+
+## Books
+* https://github.com/mkhorasani/Streamlit-Authenticator
