@@ -29,9 +29,8 @@ streamlit run layout01.py
 streamlit run layout02.py
 streamlit run progress01.py
 streamlit run plot.py
-streamlit run main_page.py
+(cd multipages; streamlit run main_page.py)
 ```
-
 
 ## Create an app
 
