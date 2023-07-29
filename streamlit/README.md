@@ -62,6 +62,10 @@ List the `demo` repositories in [streamlit org](https://github.com/orgs/streamli
 
 ## Extra
 
+### Components
+* https://streamlit.io/components
+* https://streamlit.io/components?category=video
+
 ### Database
 
 https://medium.com/@octavianzarzu/build-and-deploy-apps-with-duckdb-and-streamlit-in-under-one-hour-852cd31cccce
