@@ -73,6 +73,7 @@ List the `demo` repositories in [streamlit org](https://github.com/orgs/streamli
 * https://streamlit.io/components
 * https://streamlit.io/components?category=video
 * https://github.com/mkhorasani/Streamlit-Authenticator
+* Folium (Maps) https://folium.streamlit.app/geojson_popup
 
 ### Database
 
