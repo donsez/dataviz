@@ -56,3 +56,7 @@ streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/
 ## More demos
 
 List the `demo` repositories in [streamlit org](https://github.com/orgs/streamlit/repositories?q=demo&type=all&language=&sort=).
+
+* YOLO demo https://github.com/streamlit/demo-self-driving
+* Face GAN https://github.com/streamlit/demo-face-gan
+* SHAP https://github.com/streamlit/demo-streamlit-shap
