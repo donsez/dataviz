@@ -1,6 +1,5 @@
 # Streamlit
 
-
 ## Install
 
 https://docs.streamlit.io/library/get-started/installation
@@ -60,3 +59,27 @@ List the `demo` repositories in [streamlit org](https://github.com/orgs/streamli
 * YOLO demo https://github.com/streamlit/demo-self-driving
 * Face GAN https://github.com/streamlit/demo-face-gan
 * SHAP https://github.com/streamlit/demo-streamlit-shap
+
+## Extra
+
+### Database
+
+https://medium.com/@octavianzarzu/build-and-deploy-apps-with-duckdb-and-streamlit-in-under-one-hour-852cd31cccce
+
+### OpenAI
+
+https://streamlit.io/generative-ai
+
+#### ChatBot
+```bash
+pip install openai
+streamlit run openai01.py
+```
+
+### streamlit-jupyter
+
+https://github.com/ddobrinskiy/streamlit-jupyter
+
+https://github.com/ddobrinskiy/streamlit-jupyter/blob/master/examples/99_example.ipynb
+
+https://ddobrinskiy-jupyter.streamlit.app/
